@@ -1,4 +1,4 @@
-# AI-to-AI Conversation Simulator
+# Multi-Model Infinite Backrooms
 
 This Python script facilitates a conversation between two AI models, simulating a virtual CLI environment where the models can engage in an open-ended dialogue. The script supports interaction between OpenAI's GPT models and Anthropic's Claude models.
 
